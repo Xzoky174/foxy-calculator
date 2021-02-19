@@ -22,6 +22,10 @@ Version 1.2.0
 * Update jquery
 * Play with graphics
 
+Version 1.3.0
+
+* Add equation button
+
 ============
 
 ## Original Description
